@@ -1,7 +1,3 @@
-![furina](furina.gif)
-
-## i 💙 Furina de Fontaine
-
 ```
 $~ genshin stats
 
