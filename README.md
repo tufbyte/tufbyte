@@ -25,6 +25,4 @@ I am a Xilonen main in Genshin with $${\color{blue}AR 50}$$ right now and my fav
 
 <img src="https://metrics.lecoq.io/tufbyte?template=classic&base.header=0&gists=1&lines=1&config.timezone=Pakistan%2FIslamabad">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tufbyte&theme=dark" width="48%">
-
 <img src="assets/Xilonen_Wish.webp">
